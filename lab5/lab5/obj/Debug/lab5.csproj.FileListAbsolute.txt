@@ -1,0 +1,20 @@
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Novikov\Desktop\ВУЗ\ООПэ\lab5\lab5\obj\Debug\lab5.pdb
+H:\4 семестр\ООП\Only 5\lab5\lab5\bin\Debug\lab5.exe.config
+H:\4 семестр\ООП\Only 5\lab5\lab5\bin\Debug\lab5.exe
+H:\4 семестр\ООП\Only 5\lab5\lab5\bin\Debug\lab5.pdb
+H:\4 семестр\ООП\Only 5\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+H:\4 семестр\ООП\Only 5\lab5\lab5\obj\Debug\lab5.Form1.resources
+H:\4 семестр\ООП\Only 5\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+H:\4 семестр\ООП\Only 5\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+H:\4 семестр\ООП\Only 5\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+H:\4 семестр\ООП\Only 5\lab5\lab5\obj\Debug\lab5.exe
+H:\4 семестр\ООП\Only 5\lab5\lab5\obj\Debug\lab5.pdb
